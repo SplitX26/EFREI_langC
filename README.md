@@ -1,19 +1,19 @@
-TP Langage C L'3 2014
+#TP Langage C L'3 2014
 
-Merci à Thomas Jost ainsi qu'à mon binôme Jérôme Nicolas.
+*Merci à T.Jost ainsi qu'à mon binôme J.Nicolas.*
 
-Sommaire des TP : 
+##Sommaire des TP : 
 
-TP1 :
+###TP1 :
 
-I - Formats d’affichage et les instructions conditionnelles
+####I - Formats d’affichage et les instructions conditionnelles
 
-II - Instruction conditionnelle et boucle for
+####II - Instruction conditionnelle et boucle for
 
-TP2 :
+###TP2 :
 
-I- Boucles et aiguillage
+####I- Boucles et aiguillage
 
-II - Fonctions
+####II - Fonctions
 
-III - Fonctions transformant la valeur de parametres
+####III - Fonctions transformant la valeur de parametres
