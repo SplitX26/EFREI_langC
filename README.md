@@ -18,7 +18,7 @@
 
 ####III - Fonctions transformant la valeur de parametres
 
-###TP2 : [Sujet du tp3]
+###TP3 : [Sujet du tp3]
 
 ####I- Utilisation de tableaux
 
