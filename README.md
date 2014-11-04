@@ -18,5 +18,14 @@
 
 ####III - Fonctions transformant la valeur de parametres
 
+###TP2 : [Sujet du tp3]
+
+####I- Utilisation de tableaux
+
+####II - Chaînes de caractères
+
+####III - Structures
+
 [Sujet du tp1]:https://github.com/nerdyprog/EFREI_langC/blob/master/TP1/TP1.md
 [Sujet du tp2]:https://github.com/nerdyprog/EFREI_langC/blob/master/TP2/TP2.md
+[Sujet du tp3]:https://github.com/nerdyprog/EFREI_langC/blob/master/TP3/TP3.md
