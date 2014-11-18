@@ -1,6 +1,6 @@
 #TP Langage C L'3 2014
 
-*Merci à T.Jost ainsi qu'à mon binôme J.Nicolas.*
+*Merci à T.Jost ainsi qu'à mon binôme J.Nicolas*
 
 ##Sommaire des TP : 
 
