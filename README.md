@@ -29,5 +29,3 @@
 [Sujet du tp1]:https://github.com/nerdyprog/EFREI_langC/blob/master/TP1/TP1.md
 [Sujet du tp2]:https://github.com/nerdyprog/EFREI_langC/blob/master/TP2/TP2.md
 [Sujet du tp3]:https://github.com/nerdyprog/EFREI_langC/blob/master/TP3/TP3.md
-
-2015 - Alexandre Ravaux
